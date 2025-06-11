@@ -11,3 +11,4 @@ langchain-google-genai
 langchain
 chromadb
 pypdf
+pysqlite3-binary
